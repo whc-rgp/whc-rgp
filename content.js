@@ -6,7 +6,7 @@ const portfolio = {
   title: "Python 开发与数据采集",
   summary: "用代码把开放数据变成可理解的信息。我专注网页采集、数据清洗与自动化流程。",
   status: "持续充电中",
-  location: "中国 · 北京",
+  location: "中国 · 南京",
   email: "kaiyang@example.com",
   github: "https://github.com/kaiyang-teacher",
   csdn: "https://www.csdn.net/",
